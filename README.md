@@ -1,3 +1,24 @@
+# Strategy:
+
+1. start with pure hyrecar clone.
+2. break out to single renter apps.
+3. single renter apps get converted to conspire apps
+
+# Goals:
+
+1. deploy native/web apps
+1. firebase mastery
+1. push notifications
+1. infra for future apps
+1. conspire for real world
+1. stripe mastery
+
+# TODO:
+1. i18n support -- figure this out now for both native and web
+1. start with some admin screens
+1. firebase code to support admin screens + auth
+1. firebase code to support client screens + auth
+
 # Tamagui + Solito + Next + Expo Monorepo
 
 ```sh
